@@ -2,10 +2,10 @@ cd` (acrónimo de _change directory_, cambiar directorio en inglés) nos permite
 
 ```bash
 $ ls -l
-drwxrwxr-x 2 mumuki mumuki 4096 oct 24 13:31 borges # notá la d inicial que significa que es un directorio
-drwxrwxr-x 2 mumuki mumuki 4096 oct 24 13:31 dolina
--rw-rw-r-- 1 mumuki mumuki    0 oct 24 13:29 ni_el_tiro_del_final.txt
-drwxrwxr-x 2 mumuki mumuki 4096 oct 24 13:30 rivera
+drwxrwxr-x 2 dh dh 4096 oct 24 13:31 borges # notá la d inicial que significa que es un directorio
+drwxrwxr-x 2 dh dh 4096 oct 24 13:31 dolina
+-rw-rw-r-- 1 dh dh    0 oct 24 13:29 ni_el_tiro_del_final.txt
+drwxrwxr-x 2 dh dh 4096 oct 24 13:30 rivera
 ```
 ...podemos cambiar a `borges` y luego listar sus archivos:
 
