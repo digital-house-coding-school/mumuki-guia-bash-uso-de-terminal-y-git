@@ -3,7 +3,8 @@ name: Uso de términal y GIT
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: bash
 id_format: "%05d"
-order: []
+order:
+- 1
